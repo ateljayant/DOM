@@ -1,0 +1,25 @@
+#text{
+    color: rgb(204, 127, 99);
+    font-size: large;
+}
+.parent{
+    display:flex;
+   
+}
+
+.child{
+    flex-direction: row;
+    background-color: peru;
+    width: 80px;
+    height : 80px;
+    border: 1px solid mediumvioletred;
+    text-align: center;
+    margin:5px;
+}
+button{
+   background-color: azure;
+   height: 40px;
+   width:70px;
+   border-radius:20%;
+}
+
